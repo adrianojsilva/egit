@@ -10,7 +10,8 @@ public class TrabalhoEgit {
 		System.out.println("Helton gerente da algar telecon");
 		System.out.println("Helton passou...");
 		System.out.println("Helton passou aqui...");
-		
+		System.out.println("adriano irmao do marcelo rodolfo...");
+		System.out.println("vinicius mixirica shshshsh...")
 	}
 
 }
