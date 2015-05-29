@@ -7,7 +7,7 @@ public class TrabalhoEgit {
 		System.out.println("o japa é um cadeirante");
 		System.out.println("o japa é meu cunhado");
 		System.out.println("o japa é preguicoso!!!,");
-		System.out.println("Helton passou aqui...");
+		System.out.println("Helton gerente da algar telecon");
 		System.out.println("Helton passou...");
 		System.out.println("Helton passou aqui...");
 		
